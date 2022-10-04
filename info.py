@@ -18,7 +18,7 @@ BOT_TOKEN = environ.get('BOT_TOKEN',  '5787642375:AAHktnzMMa2a0bLzxzDiFfwYOhcu_G
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 999999))
-USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
+USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
 PICS = (environ.get('PICS', 'https://telegra.ph/file/de3fa1991120f52c164a9.jpg')).split()
 
 # Admins, Channels & Users
