@@ -1,5 +1,5 @@
 Öclass script(object):
-    START_TXT = """Yo...Yo...ANURAG {} 💖
+    START_TXT = """Yo...Yo...MATRIX {} 💖
 I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
 
 Its Easy To Use Me; Just Add Me To Your Group As Admin, 
@@ -34,7 +34,7 @@ This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space
 
 ○Dont Spam Me...🤒
 
-😎 Powered by @MatRixBotz_G
+😎 Powered by @MatRixBotz_TG
 
 ©️ Maintained By @MatRixBotz_TG"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
